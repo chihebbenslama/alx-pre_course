@@ -1,1 +1,3 @@
+echo 'cat > up_to_date' > up_to_date
+or
 emacs up_to_date
